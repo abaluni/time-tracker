@@ -1,7 +1,7 @@
 # time-tracker
 Java (Maven) application for tracking time on the job
 
-# demo changes
-
+# More demo changes
+Don't add much
 
 Time tracker
